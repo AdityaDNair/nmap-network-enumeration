@@ -33,7 +33,7 @@ Executed Nmap NSE vulnerability scripts to identify potential security issues.
 ## Screenshots
 
 ### Basic Scan
-![Basic Scan]()
+![Basic Scan](https://github.com/AdityaDNair/nmap-network-enumeration/blob/main/basic-scan.png?raw=true)
 
 ### Service Scan
 ![Service Scan]()
