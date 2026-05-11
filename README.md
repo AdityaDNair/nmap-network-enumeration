@@ -39,7 +39,7 @@ Executed Nmap NSE vulnerability scripts to identify potential security issues.
 ![Service Scan]()
 
 ### OS Detection
-![OS Detection]()
+![OS Detection](https://github.com/AdityaDNair/nmap-network-enumeration/blob/main/os-scan.png?raw=true)
 
 ### Aggressive Scan
 ![Aggressive Scan1](https://github.com/AdityaDNair/nmap-network-enumeration/blob/main/aggressive-scan1.png?raw=true)
