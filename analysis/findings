@@ -1,1 +1,28 @@
+# Findings and Analysis
 
+## Open Ports Identified
+- 22/tcp → SSH
+- 80/tcp → HTTP
+
+## Services Detected
+- OpenSSH
+- Apache HTTP Server
+
+## OS Detection
+Nmap attempted to identify the operating system using TCP/IP fingerprinting techniques.
+
+## Vulnerability Scan
+NSE scripts were executed to identify possible vulnerabilities and gather additional service information.
+
+## Key Observations
+- Multiple publicly exposed services were identified
+- Version enumeration can reveal outdated software
+- Open ports increase attack surface
+- Enumeration is a critical phase in penetration testing
+
+## Skills Demonstrated
+- Port scanning
+- Service enumeration
+- OS fingerprinting
+- NSE vulnerability scanning
+- Scan result analysis
