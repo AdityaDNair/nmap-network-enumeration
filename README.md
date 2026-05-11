@@ -46,7 +46,7 @@ Executed Nmap NSE vulnerability scripts to identify potential security issues.
 ![Aggressive Scan2](https://github.com/AdityaDNair/nmap-network-enumeration/blob/main/aggressive-scan2.png?raw=true)
 
 ### Vulnerability Scan
-![Vulnerability Scan]()
+![Vulnerability Scan](https://github.com/AdityaDNair/nmap-network-enumeration/blob/main/vuln-scan.png?raw=true)
 
 ## Skills Gained
 - Network reconnaissance
